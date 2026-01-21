@@ -1,8 +1,8 @@
-#Task Manager Web Application
+# Task Manager Web Application
 
 A modern, role-based web application for managing tasks within an organization. Built with PHP, MySQL, HTML, and styled with Tailwind CSS.
 
-##🚀 Features
+## 🚀 Features
 
 - **🔐 Role-Based Access Control (RBAC)**
     - **Admin**: Full system control. Can create/manage users, assign tasks to Managers and Users.
